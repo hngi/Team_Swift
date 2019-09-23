@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"id","STRING","0","0","0"
+"interest","STRING","0","0","0"
+"cover_img","STRING","0","0","0"
+"created_at","STRING","0","0","0"
+"updated_at","STRING","0","0","0"

@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","2","2","0"
+"user_id","INTEGER","4","4","0"
+"content","STRING","537","0","0"
+"created_at","STRING","19","0","0"
+"updated_at","STRING","19","0","0"

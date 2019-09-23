@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","2","2","0"
+"migration","STRING","56","0","0"
+"batch","INTEGER","1","1","0"

@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","3","3","0"
+"user_id","INTEGER","4","4","0"
+"email","STRING","34","0","0"
+"display_message","STRING","162","0","0"
+"created_at","STRING","0","0","0"
+"updated_at","STRING","0","0","0"

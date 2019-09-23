@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"my_id","INTEGER","4","4","0"
+"follower_id","INTEGER","4","4","0"
+"status","INTEGER","1","1","0"

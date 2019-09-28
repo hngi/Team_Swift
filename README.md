@@ -34,3 +34,4 @@ It only makes sense to look at users who’ve similar bio content as the test us
 We tested the model by inputting the test user's id in the ```who_to_follow``` and ```article_to_read``` function to show the recommended followers and articles to read respectively.
 
 
+https://github.com/hngi/Team_Swift/blob/master/Team_Swift_Recommender_sys.ipynb

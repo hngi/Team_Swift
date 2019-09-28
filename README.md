@@ -35,3 +35,5 @@ We tested the model by inputting the test user's id in the ```who_to_follow``` a
 
 
 https://github.com/hngi/Team_Swift/blob/master/Team_Swift_Recommender_sys.ipynb
+
+https://github.com/hngi/Team_Swift/blob/master/Article_recommender.ipynb

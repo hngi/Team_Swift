@@ -36,4 +36,5 @@ We tested the model by inputting the test user's id in the ```who_to_follow``` a
 
 https://github.com/hngi/Team_Swift/blob/master/Team_Swift_Recommender_sys.ipynb
 
+The download link to the dataset for Article_recommender https://drive.google.com/folderview?id=1aIysvBfKMD8o79D8H5P59ageLIdQuudm , then you can  open the code on Google colab and remount the downloaded dataset on colab from your Google drive that is after uploading the dataset to your Google drive
 https://github.com/hngi/Team_Swift/blob/master/Article_recommender.ipynb

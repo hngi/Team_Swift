@@ -38,4 +38,11 @@ The download link to the dataset for team_swift_recommender_sys https://drive.go
 https://github.com/hngi/Team_Swift/blob/master/Team_Swift_Recommender_sys.ipynb
 
 The download link to the dataset for Article_recommender https://drive.google.com/folderview?id=1aIysvBfKMD8o79D8H5P59ageLIdQuudm , then you can  open the code on Google colab and remount the downloaded dataset on colab from your Google drive that is after uploading the dataset to your Google drive.
+
 https://github.com/hngi/Team_Swift/blob/master/Article_recommender.ipynb
+
+
+
+For the who_to_follow_recommender, clone the repo and then run all the cells in the who_to_follow_recommender.ipynb notebook.
+Then, the last cell would prompt for the user's id. Type the number and press the enter key.
+The results is a list of recommeded users to follow in descending priority.

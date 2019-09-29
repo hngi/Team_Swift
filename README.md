@@ -34,7 +34,8 @@ It only makes sense to look at users who’ve similar bio content as the test us
 We tested the model by inputting the test user's id in the ```who_to_follow``` and ```article_to_read``` function to show the recommended followers and articles to read respectively.
 
 
+The download link to the dataset for team_swift_recommender_sys https://drive.google.com/folderview?id=1mnqsQoZ4V8h-W8gPA3AISvUsfpu8vPdQ, then you can  open the code on Google colab and remount the downloaded dataset on colab from your Google drive that is after uploading the dataset to your Google drive.
 https://github.com/hngi/Team_Swift/blob/master/Team_Swift_Recommender_sys.ipynb
 
-The download link to the dataset for Article_recommender https://drive.google.com/folderview?id=1aIysvBfKMD8o79D8H5P59ageLIdQuudm , then you can  open the code on Google colab and remount the downloaded dataset on colab from your Google drive that is after uploading the dataset to your Google drive
+The download link to the dataset for Article_recommender https://drive.google.com/folderview?id=1aIysvBfKMD8o79D8H5P59ageLIdQuudm , then you can  open the code on Google colab and remount the downloaded dataset on colab from your Google drive that is after uploading the dataset to your Google drive.
 https://github.com/hngi/Team_Swift/blob/master/Article_recommender.ipynb
